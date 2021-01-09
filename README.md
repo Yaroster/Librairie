@@ -3,4 +3,4 @@
 A compilation of French poems and essays I've made. <br>
 In EPUB and PDF formats !
 
-> (I hope you enjoy them)
+> (I hope you enjoy them !)
